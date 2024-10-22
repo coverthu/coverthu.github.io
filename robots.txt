@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://coverthu.github.io/coverthu.coverthu
+Sitemap: https://coverthu.github.io/app/coverthu.coverthu
+Sitemap: https://coverthu.github.io/assets/coverthu.coverthu
+Sitemap: https://coverthu.github.io/css/coverthu.coverthu
+Sitemap: https://coverthu.github.io/includes/coverthu.coverthu
+Sitemap: https://coverthu.github.io/item/coverthu.coverthu
+Sitemap: https://coverthu.github.io/src/coverthu.coverthu
